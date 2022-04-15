@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @HollaAnirudh
-- 🌱 I’m currently learning programming
+- 👋 I’m @HollaAnirudh
 - I am the founder of VENTIS BOTS
 
 <!---
